@@ -20,7 +20,7 @@ Before getting started, make sure you have the following installed:
 Download and install Composer from the official website:
 👉 https://getcomposer.org/download/
  
-### Step 2 — Verify Composer Installation
+### Step 2 - Verify Composer Installation
  
 Open a command prompt and run:
  
